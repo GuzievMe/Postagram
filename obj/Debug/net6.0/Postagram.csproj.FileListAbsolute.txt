@@ -1,0 +1,15 @@
+C:\Users\Maham\Desktop\PostAdminUser\bin\Debug\net6.0\Postagram.exe
+C:\Users\Maham\Desktop\PostAdminUser\bin\Debug\net6.0\Postagram.deps.json
+C:\Users\Maham\Desktop\PostAdminUser\bin\Debug\net6.0\Postagram.runtimeconfig.json
+C:\Users\Maham\Desktop\PostAdminUser\bin\Debug\net6.0\Postagram.dll
+C:\Users\Maham\Desktop\PostAdminUser\bin\Debug\net6.0\Postagram.pdb
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.csproj.AssemblyReference.cache
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.AssemblyInfoInputs.cache
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.AssemblyInfo.cs
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.csproj.CoreCompileInputs.cache
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.dll
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\refint\Postagram.dll
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.pdb
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\Postagram.genruntimeconfig.cache
+C:\Users\Maham\Desktop\PostAdminUser\obj\Debug\net6.0\ref\Postagram.dll
